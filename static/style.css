@@ -1,0 +1,25 @@
+body {
+    background-color: aquamarine;
+    padding: 30px;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.login {
+    background-color: darkcyan;
+}
+
+form {
+    width: 100%;
+    border: 3px solid #f1f1f1;
+    border-color: black;
+}
+
+button {
+    background-color: darksalmon;
+}
+
+input {
+    width: 50%;
+    background-color: white;
+    color: black;
+}
